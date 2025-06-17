@@ -1,6 +1,5 @@
 import numpy as np
-import nltk 
-nltk.download('punkt_tab')
+import nltk
 import string
 import random
 
